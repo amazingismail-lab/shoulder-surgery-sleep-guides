@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amazingismail-lab.github.io/shoulder-surgery-sleep-guides/sitemap.xml
